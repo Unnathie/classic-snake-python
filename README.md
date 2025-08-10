@@ -4,7 +4,7 @@ A retro-inspired Snake game built with **Python's Turtle Graphics** module — b
 the pixelated glory days,one green block at a time. 
 🕹️ Eat the magenta turtle-food, grow absurdly long, and inevitably crash into yourself (or a wall) in a blaze of glory.  
 
-![Gameplay](gameplay.gif)  
+![Gameplay](![Untitled design](https://github.com/user-attachments/assets/09e151e1-2a52-4271-99c3-2e38263ff0b9))  
 *Behold: the most intense rectangle-chasing experience since 1976.*
 
 ---
@@ -51,8 +51,8 @@ the pixelated glory days,one green block at a time.
 ---
 
 ## 📸 Screenshots
-![Scoreboard](score_14.png)  
-![Game Over](gameover.png)
+![Scoreboard](<img width="743" height="786" alt="wall-hit" src="https://github.com/user-attachments/assets/3cbd0adf-80e1-495b-b11e-c4f370a9c7f1" />)  
+![Game Over](<img width="741" height="777" alt="tail-hit" src="https://github.com/user-attachments/assets/74fd6324-a8ee-48a1-9805-577637b9d21a" />)
 
 ---
 
