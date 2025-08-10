@@ -50,5 +50,7 @@ A retro-inspired Snake game built with **Python's Turtle Graphics** module — b
 ---
 
 ## 📸 Screenshots
+When it hit's a wall:
 ![Wall Hit](https://github.com/user-attachments/assets/3cbd0adf-80e1-495b-b11e-c4f370a9c7f1)  
+When it hit's itself
 ![Tail Hit](https://github.com/user-attachments/assets/74fd6324-a8ee-48a1-9805-577637b9d21a)
