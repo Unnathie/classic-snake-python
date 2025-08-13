@@ -13,14 +13,14 @@ Run it as it was… or supercharge it with **persistent high score tracking**. Y
 
 ## ✨ Features
 
-- **Smooth & Snappy** — Crisp turns, responsive controls, no sluggish snakes here.
-- **Stylish Snacks** — Magenta, turtle-shaped food. Because why not?
+- **Smooth & Snappy** : Crisp turns, responsive controls, no sluggish snakes here.
+- **Stylish Snacks** : Magenta, turtle-shaped food. Because why not?
 - **Two Ways to Play**:  
-  - **`main.py`** — Original game, no high score saved (pure nostalgia).  
-  - **`updated_main.py`** — Upgraded version with high score saving + display.
-- **Optional Upgrades** — Extra `updated_*` modules enhance gameplay but aren’t required.
-- **Honest Game Over** — When you crash, it’s loud and clear.
-- **Modular & Maintainable** — Code split into snake, food, and scoreboard modules.
+  - **`main.py`** : Original game, no high score saved (pure nostalgia).  
+  - **`updated_main.py`** : Upgraded version with high score saving + display.
+- **Optional Upgrades** : Extra `updated_*` modules enhance gameplay but aren’t required.
+- **Honest Game Over** : When you crash, it’s loud and clear.
+- **Modular & Maintainable** : Code split into snake, food, and scoreboard modules.
 
 ---
 
