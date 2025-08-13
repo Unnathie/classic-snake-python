@@ -11,13 +11,13 @@ class Scoreboard(Turtle):
         self.penup()
         self.goto(0,270)
         self.score=0
-        with open("data.txt","r") as file:
+        with open("high_score.txt","r") as file:
             self.high_score= int(file.read())
         self.write(arg=f"SCORE: {self.score}  High Score: {self.high_score}", align=ALIGN, font=FONT)
     def reset(self):
         if self.score>self.high_score:
             self.high_score=self.score
-            with open("data.txt","w") as file:
+            with open("high_score.txt","w") as file:
                 file.write(str(self.score))
         self.score=0
         self.update_score()
