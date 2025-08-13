@@ -83,10 +83,10 @@ classic-snake-python/
 
 **Classic Mode (No High Score)**  
 ![Gameplay](https://github.com/user-attachments/assets/09e151e1-2a52-4271-99c3-2e38263ff0b9)  
-*Pure old-school fun — score resets each run.*
+*Pure old-school fun, score resets each run.*
 
 **High Score Mode (Persistent Score)**  
-![High Score Gameplay](https://github.com/user-attachments/assets/b74e8731-6f7e-4b06-bf93-2da084e3310a))  
+![High Score Gameplay](https://github.com/user-attachments/assets/b74e8731-6f7e-4b06-bf93-2da084e3310a)
 *Your best runs live forever in `high_score.txt`.*
 
 ## 📸 Screenshots
